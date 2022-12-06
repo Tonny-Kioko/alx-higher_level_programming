@@ -27,3 +27,4 @@ def list_state_cities():
 
 if __name__ == '__main__':
     list_state_cities()
+    
