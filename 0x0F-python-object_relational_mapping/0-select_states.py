@@ -37,4 +37,9 @@ def get_dbase():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     get_dbase()       
+=======
+    get_dbase()
+
+>>>>>>> 23047c6f20e79ab22d6a96647fe1112416653046
